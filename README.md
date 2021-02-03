@@ -13,7 +13,7 @@ Let's connect! ⤵️
 </p>  
 
  <i><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
- <a href="https://github.com/jessicadao/github-readme-stats">
+ <a href="https://github.com/jessicadao/github-readme-stats"><br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jessicadao&show_icons=true&include_all_commits=true&theme=vue" alt="Jessica's github stats"/>
   
 <!--
