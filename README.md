@@ -12,10 +12,8 @@ Let's connect! ⤵️
 <br/>
 <br/>
 <a href="https://github.com/jessicadao/jessicadao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicadao&show_icons=true&line_height=27&count_private=true&title_color=EED3C0&text_color=ffffff&icon_color=DDBEA9&bg_color=000000" alt="Jessica's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicadao&show_icons=true&line_height=18&count_private=true&title_color=EED3C0&text_color=ffffff&icon_color=DDBEA9&bg_color=000000" alt="Jessica's GitHub Stats" />
 </a>
-<br/>
-<br/>
 <a href="https://github.com/jessicadao/jessicadao">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicadao&layout=compact&hide=java,html&title_color=EED3C0&text_color=ffffff&icon_color=DDBEA9&bg_color=000000" />
 </a>  
