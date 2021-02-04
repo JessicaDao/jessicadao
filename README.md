@@ -9,7 +9,8 @@ Let's connect! ⤵️
 
   <a href="https://www.linkedin.com/in/jessicamdao/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicamdao/" /></a>
-
+<br/>
+<br/>
 <a href="https://github.com/jessicadao/jessicadao">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jessicadao&show_icons=true&line_height=27&count_private=true&title_color=EED3C0&text_color=ffffff&icon_color=DDBEA9&bg_color=000000" alt="Jessica's GitHub Stats" />
 </a>
